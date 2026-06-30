@@ -4,7 +4,7 @@ author: 𝗠𝗔𝗛𝗡𝗢𝗢𝗥
  <br>
  <br>
 at first it's weird that I'm showing how by just using html we can create an complete page <br> just to make sure I continue to remind you that html is the "structure of a website or an app" means so design and fancy colors like you used to have a complete website. it's like learning how to start coding  <br>
-<!DOCTYPE html>
+(<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -280,6 +280,6 @@ Customer Satisfaction
 </footer>
 
 </body>
-</html>
+</html>)
 
  <br>copy the text from <!DOCTYPE html> to above line </html> and paste it in visual studio code and save it as (page.html) and run the code to see how this page look like. then we learn how "we" can learn and created something like this
